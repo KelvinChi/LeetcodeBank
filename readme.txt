@@ -1,6 +1,1 @@
-Hello, Git!
-Let us add something.
-Added a new branch.
-Test for master.
-This is a test for feature1.
-Solve a bug.
+这个小仓库是我从最开始学习到目前（2019年8月18日）以来积累下来的Leetcode所刷的题目，目前已熟练掌握了除图以外的所有数据结构，以后会持续更新~
